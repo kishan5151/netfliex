@@ -121,7 +121,7 @@ button:hover{
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    height: 13rem;
+    /* height: 13rem; */
     padding-top: 22px;
     font-size: medium;
     font-family: 'Mina', sans-serif;
